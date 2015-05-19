@@ -1,0 +1,5 @@
+/build
+/dist
+/orion_client.egg-info
+*.swp
+*.swo
